@@ -41,12 +41,12 @@ microcontrolador.
 - Conexión y aplicación de Sensores digitales, analógicos y Actuadores.
 - Desarrollar firmware de los dispositivo IoT y software de Servidores
 Web.
-- Conocer y Aplicar herramientas de desarrollo y tecnologías de
-Plataformas IoT en la nube y API de acceso a los datos
+- Conocer y Aplicar herramientas de desarrollo y tecnologías de Plataformas IoT en la nube y API de acceso a los datos.
 - Reflexionar sobre los usos posibles de esta tecnología.
 
-## Material y conocimientos previos:
-* Conocimiento previos de microcontroladores y programacion
+## Conocimientos previos y materiales
+
+* Conocimiento previos de microcontroladores y programación.
 * Equipamiento: módulos de microcontroladores: Arduino – ESP32 – Adafruit, sensores, actuadores.
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
