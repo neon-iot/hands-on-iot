@@ -30,8 +30,8 @@ cliente = MQTTClient("nombre", "10.2.13.83", keepalive=30)
 print("Conectando a servidor MQTT...")
 cliente.set_callback(callback)
 cliente.connect(clean_session=False)
-cliente.subscribe("#")
 print("Conectado")
+cliente.subscribe("/servidor")
 
 while True:
     cliente.publish("/alumnos/yo", "hola")
