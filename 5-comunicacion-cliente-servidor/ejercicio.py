@@ -1,4 +1,4 @@
-from time import sleep_ms
+from time import ticks_ms
 
 import network
 from umqtt.robust import MQTTClient
@@ -64,15 +64,19 @@ def callback(topic, msg):
         np.write()        
 
 
-cliente = MQTTClient("nombre", "10.2.13.83", keepalive=30)
+cliente = MQTTClient("nombre", "mqtt.fi.mdp.edu.ar", keepalive=30)
 print("Conectando a servidor MQTT...")
 cliente.set_callback(callback)
 cliente.connect(clean_session=False)
 print("Conectado")
 cliente.subscribe("/alumnos/yo/#")
 
+ultima_actualizacion = ticks_ms()
+
 while True:
-    cliente.check_msg()
+    if ticks_ms() - ultima_actualizacion > 1000:
+        cliente.check_msg()
+        ultima_actualizacion = ticks_ms()
     
     estado_boton = not boton.value()
     if estado_boton != ultimo_estado_boton:
@@ -80,7 +84,5 @@ while True:
             cliente.publish("/servidor/yo", str(adc.read_uv()))
     
     ultimo_estado_boton = estado_boton
-    
-    sleep_ms(10)
 
 cliente.disconnect()

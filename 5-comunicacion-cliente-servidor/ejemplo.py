@@ -26,7 +26,7 @@ def callback(topic, msg):
         print(f"Llegó {msg} de {topic}")
 
 
-cliente = MQTTClient("nombre", "10.2.13.83", keepalive=30)
+cliente = MQTTClient("nombre", "mqtt.fi.mdp.edu.ar", keepalive=30)
 print("Conectando a servidor MQTT...")
 cliente.set_callback(callback)
 cliente.connect(clean_session=False)
