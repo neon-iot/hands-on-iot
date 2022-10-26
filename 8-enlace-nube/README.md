@@ -1,21 +1,20 @@
-# Clase 8: Enlace a la nube
+# Module 8: Cloud Computing
 
-En esta clase se presentan el concepto de la nube como servidor
-externo accesible a través de Internet para intercambio de información
-y procesamiento. Se presentan la forma en la que se pueden incorporar
-distintos servicios y administración remota. Se presentan servicios de
-mensajería y dashboard con ejemplos.
+In this module, cloud as external servers and data exchange is presented.
+Different cloud technologies are discussed and it is shown how to 
+implement various services on the cloud. Finally the end-term project is
+announced with requirements and recommendations.
 
-[Diapositivas](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%208%20-%20Enlace%20a%20la%20Nube.pdf)
-[Link a la clase](https://www.youtube.com/watch?v=nA_RmpH6jt0)
+## Materials
+- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%208%20-%20Enlace%20a%20la%20Nube.pdf)
+- [Lecture live recording](https://www.youtube.com/watch?v=nA_RmpH6jt0)
 
-## Contenidos
+## Contents
 
-- Definición
-- Problemáticas y propuestas
-- Diferencias entre servidor local y privado
-- Conexión remota
-- Contenedores Docker
-- Servicios (mosquitto, NodeRED, influxdb, Grafana)
-- Ejemplos
-- Presentación de trabajo final de curso
+- Cloud: definition and concepts
+- Problems and proposed solutions
+- Differences between local and external servers
+- Remote connection
+- Docker containers
+- Services (mosquitto, NodeRED, influxdb, Grafana)
+- Examples

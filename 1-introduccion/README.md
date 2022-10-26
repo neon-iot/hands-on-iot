@@ -1,19 +1,19 @@
-# Clase 1: Introducción a IoT
+# Module 1: Introduction
 
-En esta clase se presentan el curso y materiales relacionados con el
-tema en cuestión. Se muestra de forma general los conceptos que se
-presentarán a lo largo del curso.
+This modules presents the course objectives, materials and general
+concepts needed along the course.
 
-[Diapositivas](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%201%20-%20Introducci%C3%B3n%20al%20Curso%20Hands%20on%20IoT.pdf)
-[Link a la clase](https://www.youtube.com/watch?v=5210qQ1CqzE)
+## Materials
+- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%201%20-%20Introducci%C3%B3n%20al%20Curso%20Hands%20on%20IoT.pdf)
+- [Lecture live recording](https://www.youtube.com/watch?v=5210qQ1CqzE)
 
-## Contenidos
+## Contents
 
-- Presentación de la cátedra
-- Metodología de cursada
-- Objetivos
-- Conexión del mundo físico con la web
-- Fundamentos
-- Protocolos
-- Presentación del Hardware
-- Plataformas IoT
+- Course authores
+- Course methodology
+- Objectives
+- Connectino to the physical world through the Web
+- Fundamentals
+- Protocols
+- Materials presentation
+- IoT Platforms

@@ -1,18 +1,15 @@
-# Clase 4: Hardware IoT
+# Module 4: IoT Hardware
 
-En esta clase se presentan el curso y materiales relacionados con el
-tema en cuestión. Se muestra de forma general los conceptos que se
-presentarán a lo largo del curso.
+In this module, hardware components and materials are presented. 
+Alternatives are discussed and the selection of materials is made.
 
-[Diapositivas](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%201%20-%20Introducci%C3%B3n%20al%20Curso%20Hands%20on%20IoT.pdf)
-[Link a la clase](https://www.youtube.com/watch?v=Gpj7ZXW8xew)
+- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%201%20-%20Introducci%C3%B3n%20al%20Curso%20Hands%20on%20IoT.pdf)
+- [Lecture live recording](https://www.youtube.com/watch?v=Gpj7ZXW8xew)
 
 ## Contenidos
 
-- Definición
-- Análisis de microcontroladores y placas de desarrollo
-- Sensores, actuadores y periféricos
-- Gateway (puerta de enlace)
-- Kits de desarrollo
-- MicroPython
-- Ejercitación
+- Microcontrollers and development kits
+- Sensors, actuators and peripherals
+- Gateway
+- Arduino and MicroPython
+- Exercises

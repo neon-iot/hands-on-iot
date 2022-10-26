@@ -59,6 +59,13 @@ with a presentation of an end-term project.
 - Servomotor
 - Assorted electronic passive components
 
+## Authors:
+
+- Walter Gemin
+- Melisa Kuzman
+- Rodrigo Russo
+- Juan Manuel López
+
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
 

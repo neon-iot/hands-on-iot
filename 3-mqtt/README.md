@@ -1,17 +1,18 @@
-# Clase 3: Protocolo MQTT
+# Module 3: MQTT Protocol
 
-En esta clase se presenta el protocolo MQTT, elemento fundamental en
-la comunicación entre equipos con la red. Se describe cómo aplicar el
-protocolo en conjunto con una ejercitación práctica para comprender la
-jerarquía de los mensajes.
+In this module, the MQTT protocol is presented. It is a fundamental
+piece in communication between devices connected to the network. This
+module describes how to use the protocol and manage messages hierarchy 
+along with examples and exercises.
 
-[Diapositivas](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%203%20-%20Protocolo%20MQTT.pdf)
-[Link a la clase](https://www.youtube.com/watch?v=Gpj7ZXW8xew)
+## Materials
+- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%203%20-%20Protocolo%20MQTT.pdf)
+- [Lecture live recording](https://www.youtube.com/watch?v=Gpj7ZXW8xew)
 
-## Contenidos
+## Contents
 
-- Definición
-- Componentes
-- Topología
-- Jerarquía de mensajes
+- Definition
+- Components
+- Topology
+- Message hierarchy
 - Software

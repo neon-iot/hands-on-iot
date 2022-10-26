@@ -1,13 +1,15 @@
-# Clase 5: Sensores, Actuadores y Periféricos
+# Module 5: Sensors, Actuators and Peripherals
 
-En esta clase se presentan las diversas formas de interfaz entre
-sensores, actuadores y periféricos junto con ejemplos y ejercitación
-correspondiente a la placa de desarrollo proporcionada por la cátedra.
+In this module, different interfaces between sensors,
+actuators and peripherals are presented. Examples are
+provided with common parts names and how are they used.
 
-[Diapositivas](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%205%20-%20Sensores%2C%20Actuadores%20y%20Perif%C3%A9ricos.pdf)
-[Link a la clase](https://www.youtube.com/watch?v=Q8EwJqmNOvo)
+## Materials
 
-## Contenidos
+- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%205%20-%20Sensores%2C%20Actuadores%20y%20Perif%C3%A9ricos.pdf)
+- [Lecture live recording](https://www.youtube.com/watch?v=Q8EwJqmNOvo)
+
+## Contents
 
 - Protocolos de conexionado/comunicación de hardware
 - Modulación de ancho de pulso
