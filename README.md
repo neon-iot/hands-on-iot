@@ -1,74 +1,65 @@
-# Hands on IoT
+# Hands On IoT
+## About this teaching material
 
-## Acerca de este curso
+This course is focused on acquiring the knowledge and experiences related
+to IoT technologies and applications. The aim is to introduce students
+into the IoT world with modern tools along with examples and exercises
+analyzing its advantages and disadvantages. The approach relies heavily in
+applied problems with interaction among students through virtual and hands on
+experimentation. Industry standard tools are presented in order to contrast,
+compare and select the most suitable for different applications.
 
-Adquirir conocimientos y experiencias prácticas en el diseño con
-tecnologías y aplicaciones de IoT.
+## Main topics
+- IoT Fundamentals
+- IoT Hardware
+- IoT Software
+- Sensors, Actuators and Peripherals
+- Gateways
+- Network Topologies
+- Cloud Services
+- Data Storage, Processing and Visualization
 
-Desarrollar proyectos de: Automatización, Control de procesos a
-distancia, Domótica, Redes y microservicios, Productos conectados,
-Internet de las Cosas (IoT). Analizar nuevas herramientas de
-integración que permitan identificar oportunidades y facilitar la toma
-de decisiones en la aplicación de IoT en las empresas modernas.
+## What you will learn
+- IoT basic concepts
+- MicroPython (Python for embedded devices)
+- Communication protocols used in IoT
+- Connection to the physical world (sensors, actuators and peripherals)
+- IoT networking (Bluetooth, WiFi, Zigbee, LoRa, Sigfox)
+- Cloud computing and services
 
-Modalidad: Capacitación a distancia con clases en vivo de idéntica forma a la
-experiencia vivida en un curso presencial.
+## Learning Outcome
 
-- Clases con alto contenido de actividad práctica, armado e
-  interconexión de los dispositivos, configuración y programación.
-- Experiencias prácticas semanales.
-- Dictado de Aulas Virtuales online.
-- Soporte de videos de las clases para consultas y repaso.
-- Laboratorios remotos interactivos de domótica, smart cities y procesos
-  industriales.
+- Experimental introduction into IoT technologies
+- Understand the inner workings of IoT devices based on microcontrollers
+- How to use and connect sensors, actuators and peripherals
+- Develop the IoT devices firmware
+- Deploy web applications and web services to the cloud
 
-## Temas principales
+## Methodology
 
-**Unidad 1. Fundamentos de IoT (Internet of Things).**
-Concepto de IoT. Ecosistema, Tecnologías, Arquitecturas, Retos, Valor de los datos.
+Distant online learning delivered live through an online platform mixed with 
+face to face students simultaneously on real-time. Video tutorials and PDF
+manuals with instructions for setting up tools and applications.Common access
+to the needed tools through the use of a common framework. Encourage discussions
+between students and teachers using a web forum. Remote domotics laboratory
+available 24/7 for experimenting and exercising. A project-based learning 
+(PBL) strategy is mainly used. The course is expected to be graded
+with a presentation of an end-term project.
 
-**Unidad 2. Hardware IoT.**
-Introducción a microcontroladores para IoT, Análisis de especificaciones, plataformas de desarrollo, ventajas y desventajas de cada una. Selección. Criterios de diseño generales. Diseño de placas de desarrollo.
+## What you will need:
+- Basic programming skills
+- Basic digital devices knowledge
+- Internet access
+- ESP32 Development Kit
+- Three different LED colors
+- Potentiometer
+- Tactile switches
+- DHT11
+- NeoPixels (ws2812b LEDs)
+- Servomotor
+- Assorted electronic passive components
 
-**Unidad 3. Software IoT.**
-Evaluación de entornos de desarrollo y lenguajes de programación disponibles. Selección del entorno de desarrollo y lenguaje de programación. Introducción al lenguaje seleccionado y sus características. Programación y configuración de periféricos.
-
-**Unidad 4. Sensores, actuadores y periféricos.**
-Características de sensores, actuadores y periféricos. Selección de módulos según requerimientos. Protocolos de comunicación para conectar módulos externos.
-
-**Unidad 5. Enlace del gateway hacia la nube.**
-Análisis de tecnologías disponibles, Comunicación con Gateway, Procesamiento en Gateway. Ejemplos y aplicaciones.
-
-**Unidad 6. Topologías de red.**
-Análisis de distintas topologías. Medios de comunicación cableados e inalámbricos. Ejemplos y aplicaciones.
-
-**Unidad 7. Servicios en la nube.**
-Instalación y configuración de servicios. Lenguajes de programación gráfica. Diseño de dashboards.
-
-**Unidad 8. Coordinación de tecnologías.**
-Enlace entre diversas tecnologías y topologías. Registro, análisis y visualización de datos. Análisis de la estructura desde el dispositivo hasta la nube. Ejemplos de aplicaciones típicas.
-
-## Resultados esperados
-
-Capacitación experimental en las tecnologías que involucra IoT que
-permitan:
-
-- Una introducción experimental a las tecnologías de IoT.
-- Comprender el funcionamiento de los dispositivos IoT basados en
-  microcontrolador.
-- Conexión y aplicación de Sensores digitales, analógicos y Actuadores.
-- Desarrollar firmware de los dispositivo IoT y software de Servidores
-  Web.
-- Conocer y Aplicar herramientas de desarrollo y tecnologías de Plataformas IoT en la nube y API de acceso a los datos.
-- Reflexionar sobre los usos posibles de esta tecnología.
-
-## Conocimientos previos y materiales
-
-- Conocimiento previos de microcontroladores y programación.
-- Equipamiento: módulos de microcontroladores: Arduino – ESP32 – Adafruit, sensores, actuadores.
-
----
-
+***
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
@@ -79,3 +70,4 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+![logo_neon_erasmus](https://user-images.githubusercontent.com/49734900/153255554-d0157b48-ceea-40c7-9ca8-ce098fe193e8.png)
