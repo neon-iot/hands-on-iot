@@ -1,4 +1,3 @@
-- Subir diapositivas
 - Poner playlist en readme
 - subir ejercicios resultos y ejemplos del campus
 - subir otros documentos
