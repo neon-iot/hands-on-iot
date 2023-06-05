@@ -59,6 +59,13 @@ with a presentation of an end-term project.
 - Servomotor
 - Assorted electronic passive components
 
+## Video lectures playlist
+
+Video lectures can be access through the following playlist. It contains the 2023 lectures
+which corresponds to the uploades slides in the `slides` folder.
+
+![Playlist](https://www.youtube.com/playlist?list=PLa6g4FD2PHEynB2oIQH629-fuNWOR_bHg)
+
 ## Authors:
 
 - Walter Gemin

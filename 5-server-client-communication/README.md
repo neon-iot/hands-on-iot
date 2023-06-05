@@ -7,7 +7,7 @@ project is announced and consists in solving the exercise proposed
 at the end of the lecture.
 
 ## Materials
-- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%206%20-%20Comunicaci%C3%B3n%20Cliente%20-%20Servidor.pdf)
+- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%205%20-%20Comunicaci%C3%B3n%20Cliente%20-%20Servidor.pdf)
 - [Lecture live recording](https://www.youtube.com/live/L-L_WRiHBMk)
 
 ## Contents
@@ -29,3 +29,8 @@ at the end of the lecture.
 # Exercises
 
 - Deliverable requirements
+
+## Additional files
+
+- Ejemplos Clase 5: the MicroPython files for the examples
+presented in the slides

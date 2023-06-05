@@ -3,7 +3,7 @@
 In this module, hardware components and materials are presented. 
 Alternatives are discussed and the selection of materials is made.
 
-- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%201%20-%20Introducci%C3%B3n%20al%20Curso%20Hands%20on%20IoT.pdf)
+- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%203%20-%20Hardware%20IoT.pdf)
 - [Lecture live recording](https://www.youtube.com/live/mt8Z39JzySA)
 
 ## Contents
@@ -23,3 +23,12 @@ Alternatives are discussed and the selection of materials is made.
 ## Exercises
 
 - Build basic MicroPython programs interacting with buttons and LEDs
+
+## Additional files
+
+- Placa de Desarrollo: development board files for manufacturing for the
+remote students.
+- Ejemplos Clase 3: the MicroPython files for the examples
+presented in the slides
+- Ejercicios Clase 3: the solutions of the proposed exercises (given
+a week later the lecture)

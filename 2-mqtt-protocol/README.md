@@ -6,7 +6,7 @@ module describes how to use the protocol and manage messages hierarchy
 along with examples and exercises.
 
 ## Materials
-- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%203%20-%20Protocolo%20MQTT.pdf)
+- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%202%20-%20Protocolo%20MQTT.pdf)
 - [Lecture live recording](https://www.youtube.com/live/ZtWOghweOlk)
 
 ## Contents

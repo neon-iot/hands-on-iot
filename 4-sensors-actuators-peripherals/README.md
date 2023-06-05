@@ -6,7 +6,7 @@ provided with common parts names and how are they used.
 
 ## Materials
 
-- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%205%20-%20Sensores%2C%20Actuadores%20y%20Perif%C3%A9ricos.pdf)
+- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%204%20-%20Sensores%2C%20Actuadores%20y%20Perif%C3%A9ricos.pdf)
 - [Lecture live recording](https://www.youtube.com/live/IJIUZp-fe38)
 
 ## Contents
@@ -35,3 +35,10 @@ peripherals
 - Smooth LED brightness control with PWM
 - Analog value mapping to PWM
 - Repurpose previous exercises to use asyncio library
+
+## Additional files
+
+- Ejemplos Clase 4: the MicroPython files for the examples
+presented in the slides
+- Ejercicios Clase 4: the solutions of the proposed exercises (given
+a week later the lecture)

@@ -6,7 +6,7 @@ implement various services on the cloud. Finally the end-term project is
 announced with requirements and recommendations.
 
 ## Materials
-- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%208%20-%20Enlace%20a%20la%20Nube.pdf)
+- [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%207%20-%20Enlace%20a%20la%20Nube.pdf)
 - [Lecture live recording](https://www.youtube.com/live/XWsD3KS_ygo)
 
 ## Contents
