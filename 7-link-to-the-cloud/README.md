@@ -7,7 +7,7 @@ announced with requirements and recommendations.
 
 ## Materials
 - [Slides](https://github.com/neon-iot/hands-on-iot/blob/main/slides/Clase%208%20-%20Enlace%20a%20la%20Nube.pdf)
-- [Lecture live recording](https://www.youtube.com/watch?v=nA_RmpH6jt0)
+- [Lecture live recording](https://www.youtube.com/live/XWsD3KS_ygo)
 
 ## Contents
 
@@ -18,3 +18,18 @@ announced with requirements and recommendations.
 - Docker containers
 - Services (mosquitto, NodeRED, influxdb, Grafana)
 - Examples
+- First deliverable deadline and last deliverable requirements
+
+## Activity
+
+- Use of a Raspberry Pi 400 as a Linux server
+- Basic Linux commands
+- Remote connection
+- Deployment of docker containers (mosquitto and NodeRED)
+- NodeRED flows and nodes
+
+## Exercises
+
+- Deploy a docker containers in a Linux server
+- Build a dashboard using NodeRED which can control the IoT 
+device built during the first deliverable
