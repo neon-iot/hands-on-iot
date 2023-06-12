@@ -1,6 +1,6 @@
 # NEON - Network of Competence On Internet Of Things education material
 # Co-founded by the Erasmus+ Programme of the European Union
-# https://neonproject.eu/
+# https://www.project-neon.eu/
 
 from mqtt_as import MQTTClient, config
 import uasyncio
